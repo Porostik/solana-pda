@@ -40,7 +40,7 @@ pub const KEYPAIR_FILE_PATH: &'static str = "*your path*";
 
 You must have some Sol on your account than you will use in your "key/user_keypair.json".
 
-Commands:
+# Commands:
 
 Generate wallet:
 
