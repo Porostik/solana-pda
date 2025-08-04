@@ -4,15 +4,17 @@
 
 ### Goals:
 
-[x] - Create simple Solana Program for working with PDA.
+- [x] - Create simple Solana Program for working with PDA.
 
-[x] - Create cli interface for working with Solana Program.
+- [x] - Create cli interface for working with Solana Program.
 
-[] - Create api interface for working with Solana Program.
+- [ ] - Create api interface for working with Solana Program.
 
-[] - Add database.
+- [ ] - Add database.
 
-[] - Add error-handling for Program and cli/api interfaces.
+- [ ] - Add error-handling for Program and cli/api interfaces.
+
+- [ ] - Add tests.
 
 # CLI.
 
